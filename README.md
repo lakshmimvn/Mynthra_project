@@ -1,4 +1,4 @@
 # Mynthra_project
 git test project
 hello
-how are.
+how are you.
